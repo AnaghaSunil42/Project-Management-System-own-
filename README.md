@@ -212,4 +212,8 @@ Internship Project
 
 ## 📜 License
 
-This project is developed for learning and internship purposes.
+## 📄 Note
+
+This project was developed as part of an internship to demonstrate full-stack web application development using ASP.NET Core Web API, Angular, and SQL Server.
+
+
